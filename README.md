@@ -89,10 +89,9 @@ Passionate about building scalable applications, solving algorithmic problems an
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudilware07&layout=compact&theme=tokyonight&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudilware07&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </p>
-
 ---
 
 ## ✨ Random Quote
