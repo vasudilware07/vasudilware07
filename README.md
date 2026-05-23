@@ -33,7 +33,7 @@ Passionate about building scalable applications, solving algorithmic problems an
 </a>
 
 <a href="https://codeforces.com/profile/vasudevdilware">
-<img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=codeforces">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces">
 </a>
 
 <a href="YOUR_PORTFOLIO">
@@ -52,19 +52,24 @@ Passionate about building scalable applications, solving algorithmic problems an
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,express,mongodb,postgres,redux,tailwind,docker,aws,git,github,vscode,matlab.qgis" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,express,mongodb,postgres,redux,tailwind,docker,aws,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vasudilware07&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudilware07&theme=tokyonight"/>
 
 </p>
 
@@ -74,7 +79,7 @@ Passionate about building scalable applications, solving algorithmic problems an
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vasudilware07&theme=algolia&margin-w=15"/>
 
 </p>
 
@@ -84,7 +89,7 @@ Passionate about building scalable applications, solving algorithmic problems an
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudilware07&layout=compact&theme=tokyonight"/>
 
 </p>
 
