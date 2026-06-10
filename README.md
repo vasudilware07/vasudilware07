@@ -75,15 +75,6 @@ Passionate about building scalable applications, solving algorithmic problems an
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vasudilware07&theme=algolia&margin-w=15"/>
-
-</p>
-
----
 
 
 
