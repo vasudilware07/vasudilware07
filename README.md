@@ -14,9 +14,8 @@ Passionate about building scalable applications, solving algorithmic problems an
 
 🎓 B.Tech CSE @ IIIT Sri City  
 💻 Full Stack Developer  
-🤖 Interested in ML, Agentic AI and System Design  
-🏆 Solved 450+ DSA problems  
-🌱 Currently exploring AI and scalable systems  
+🤖 Interested in ML, Agentic AI
+🌱 Currently exploring AI and System Design  
 
 ---
 
